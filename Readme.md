@@ -17,7 +17,7 @@ You may be prompted to confirm. Type Y and press Enter.
 Now, you’ll schedule the script to run daily at 00:00 using Task Scheduler:
 
 1. Open Task Scheduler:
-Press Windows Key + R, type taskschd.msc, and press Enter.
+Press Windows Key + R, type ``taskschd.msc``, and press Enter.
 2. Create a New Task:
 In Task Scheduler, click Create Task.
 ###  General Tab:
